@@ -1,0 +1,217 @@
+tr:nth-child(3) td {
+  border-bottom: 3px solid black;
+}
+tr td:nth-child(3) {
+  border-right: 3px solid black;
+}
+tr:nth-child(1) td {
+  border-top: 3px solid black;
+}
+tr td:nth-child(1) {
+  border-left: 3px solid black;
+}
+tr td:nth-child(3) {
+  border-left: 1px solid black;
+}
+tr td:nth-child(1) {
+  border-right: 1px solid black;
+}
+tr:nth-child(1) td {
+  border-bottom: 1px solid black;
+}
+tr:nth-child(2) td {
+  border-bottom: 1px solid black;
+}
+tr td:nth-child(7) {
+  border-left: 3px solid black;
+}
+tr td:nth-child(9) {
+  border-right: 3px solid black;
+}
+tr:nth-child(6) td {
+  border-bottom: 3px solid black;
+}
+tr:nth-child(9) td {
+  border-bottom: 3px solid black;
+}
+tr:nth-child(4) td {
+  border-bottom: 1px solid black;
+} 
+tr:nth-child(5) td {
+  border-bottom: 1px solid black;
+}
+tr:nth-child(7) td {
+  border-bottom: 1px solid black;
+}
+tr:nth-child(8) td {
+  border-bottom: 1px solid black;
+}
+tr td:nth-child(4) {
+  border-right: 1px solid black;
+}
+tr td:nth-child(5) {
+  border-right: 1px solid black;
+}
+tr td:nth-child(7) {
+  border-right: 1px solid black;
+}
+tr td:nth-child(8) {
+  border-right: 1px solid black;
+}
+
+td {
+  padding: 10px;
+}
+
+table {
+  border-spacing: 0;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+caption {
+  font-size: 100px;
+}
+
+#Finish {
+  margin-left: 35%;
+  margin-top: 35px;
+}
+
+input {
+  width: 10px;
+}
+/* #ac {
+  width: 10px;
+}
+#af {
+  width: 10px;
+}
+#ah {
+  width: 10px;
+}
+#ai {
+  width: 10px;
+}
+
+#ba {
+  width: 10px;
+}
+#bc {
+  width: 10px;
+}
+#be {
+  width: 10px;
+}
+#bf {
+  width: 10px;
+}
+#bg {
+  width: 10px;
+}
+#bh {
+  width: 10px;
+}
+#bi {
+  width: 10px;
+}
+
+#cb {
+  width: 10px;
+}
+#cc {
+  width: 10px;
+}
+#ce {
+  width: 10px;
+}
+#cf {
+  width: 10px;
+}
+
+#da {
+  width: 10px;
+}
+#de {
+  width: 10px;
+}
+#df {
+  width: 10px;
+}
+#dg {
+  width: 10px;
+}
+#di {
+  width: 10px;
+}
+
+#eb {
+  width: 10px;
+}
+#ec {
+  width: 10px;
+}
+#ed {
+  width: 10px;
+}
+#ee {
+  width: 10px;
+}
+#eg {
+  width: 10px;
+}
+#ei {
+  width: 10px;
+}
+
+#fe {
+  width: 10px;
+}
+#fg {
+  width: 10px;
+}
+#fh {
+  width: 10px;
+}
+#fi {
+  width: 10px;
+}
+
+#ga {
+  width: 10px;
+}
+#ge {
+  width: 10px;
+}
+#gh {
+  width: 10px;
+}
+
+#hd {
+  width: 10px;
+}
+#he {
+  width: 10px;
+}
+#hg {
+  width: 10px;
+}
+
+#ia {
+  width: 10px;
+}
+#ic {
+  width: 10px;
+}
+#id {
+  width: 10px;
+}
+#if {
+  width: 10px;
+}
+#ig {
+  width: 10px;
+}
+#ii {
+  width: 10px;
+} */
